@@ -1,4 +1,4 @@
-# Proyecto final LM 1º Parte
+# Proyecto final LM 1º Parte - Clash Of Clans
 
 El enunciado de este proyecto consta de los siguientes parámetros.
 
